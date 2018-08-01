@@ -1,5 +1,5 @@
 # Задание 1. Дерево папок
 
-Свертайсте с помощью `HTML` и `CSS` дерево папок, как показано на картинке ниже:
+Используя только `HTML` и `CSS`, реализуйте древовидное представление каталога файлов (чтобы были, и файлы, и папки):
 
-![Picture here](https://installmate.com/support/im9/img/FolderTree_normal.png)
+<img src="../assets/folder-tree.png" width="350px">
