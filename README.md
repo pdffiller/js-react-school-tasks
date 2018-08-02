@@ -37,4 +37,8 @@
 
 
 ## 2. Основы JavaScript
-   1. [Рекурсиваня функция](JS%20Basics/01-recursive-function.md)
+   1. [Опрос Пользователя](JS%20Basics/01-prompt-write.md)
+   1. [Приоритеты операторов](JS%20Basics/02-operator-precedence.md)
+   1. [Регулярные выражения](JS%20Basics/03-reg-exp.md)
+   1. [Дата и Время](JS%20Basics/04-dates.md)
+   1. [Приложение “Платежная ведомость”](JS%20Basics/05-parse-csv-file.md)
