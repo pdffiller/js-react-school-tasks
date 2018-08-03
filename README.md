@@ -34,6 +34,7 @@
 
 ## 1. Основы DOM
    1. [Дерево Папок](DOM%20Basics/01-folder-tree.md)
+   2. [Интерактивное дерево папок](DOM%20Basics/02-events.md)
 
 
 ## 2. Основы JavaScript
