@@ -44,5 +44,5 @@
    2. [Приоритеты операторов](JS%20Basics/02-operator-precedence.md)
    3. [Регулярные выражения](JS%20Basics/03-reg-exp.md)
    4. [Дата и Время](JS%20Basics/04-dates.md)
-   5. [Приложение “Платежная ведомость”](JS%20Basics/05-parse-csv-file.md)
+   5. [Приложение “Платежная ведомость”](JS%20Basics/05-oop-school.md)
    6. [Приложение "журнал школы"]
