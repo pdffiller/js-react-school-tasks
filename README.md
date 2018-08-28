@@ -46,3 +46,4 @@
    4. [Дата и Время](JS%20Basics/04-dates.md)
    5. [Приложение “Платежная ведомость”](JS%20Basics/05-parse-csv-file.md)
    6. [Приложение "Симулятор школы"](JS%20Basics/07-oop-school.md)
+   7. [Приложение "Профиль GitHub-пользователя"](JS%20Basics/07-github-user-profile.md)
