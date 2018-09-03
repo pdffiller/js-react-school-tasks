@@ -1,0 +1,22 @@
+.page-content {
+  padding: 30px 0;
+  max-width: 1280px;
+  margin: auto;
+}
+.demo-content--full {
+  width: 100%;
+}
+.demo-content--separated {
+  margin: 10px 0;
+}
+.demo-content--separated:first-child {
+  margin-top: 0;
+}
+
+.demo-content--separated:last-child {
+  margin-bottom: 0;
+}
+.demo-user-block {
+  margin: 0;
+  padding: 0;
+}

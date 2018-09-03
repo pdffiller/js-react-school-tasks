@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+
+  <title>Cart App</title>
+
+  <link rel="stylesheet" href="/static/icons.css" />
+  <link rel="stylesheet" href="/static/theme.css" />
+  <link rel="stylesheet" href="/static/fonts.css" />
+  <script defer src="/static/theme.js"></script>
+</head>
+<body>
+  <div class="mdl-layout mdl-js-layout mdl-layout--fixed-header mdl-color--grey-300">
+    <header class="mdl-layout__header">
+      <div class="mdl-layout__header-row">
+        <!-- Title -->
+        <span class="mdl-layout-title">Cart App</span>
+        
+        <!-- Align navigation to the right -->
+        <div class="mdl-layout-spacer"></div>
+        
+        <!-- Navigation. We hide it in small screens. -->
+        <nav class="mdl-navigation mdl-layout--large-screen-only">
+          <!-- Navigation items will be here --> 
+        </nav>
+      </div>
+    </header>
+    <main class="mdl-layout__content">
+      <div class="page-content">
+        <div class="mdl-grid">
+          <div class="mdl-cell mdl-cell--4-col">
+            <ul class="demo-user-block mdl-list mdl-shadow--2dp mdl-color--white" id="demo-user-data">
+              <li class="mdl-list__item demo-user-block__name mdl-color--primary">
+                <span class="mdl-list__item-primary-content mdl-typography--headline mdl-color-text--white">Parus User</span>
+              </li>
+              <li class="mdl-list__item">
+                <span class="mdl-list__item-primary-content">some@mail.com</span>
+              </li>
+              <li class="mdl-list__item">
+                <span class="mdl-list__item-primary-content">+380123456789</span>
+              </li>
+              <li class="mdl-list__item">
+                <span class="mdl-list__item-primary-content">Mechnikova 2, Kiev, Ukraine</span>
+              </li>
+            </ul>
+            <button class="mdl-button mdl-js-button mdl-button--raised mdl-button--colored demo-content--separated mdl-js-ripple-effect" onclick="updateCart()">
+              Reload Cart
+            </button>
+          </div>
+          <div class="mdl-cell mdl-cell--8-col" id="demo-order-list">
+            
+          </div>
+        </div>
+      </div>
+    </main>
+  </div>
+</body>
+</html>

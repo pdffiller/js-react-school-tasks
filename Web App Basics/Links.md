@@ -29,9 +29,10 @@ npm i -D webpack webpack-cli
 - [ejs-loader](https://github.com/okonet/ejs-loader)
 - [mini-css-extract-plugin](https://github.com/webpack-contrib/mini-css-extract-plugin)
 - [css-loader](https://github.com/webpack-contrib/css-loader)
-- 
-### code smells
-- [wiki](https://en.wikipedia.org/wiki/Code_smell)
+- [serviceworker-webpack-plugin](https://www.npmjs.com/package/serviceworker-webpack-plugin)
+### Etc.
+- [code smell](https://en.wikipedia.org/wiki/Code_smell)
+- [web app manifest](https://developers.google.com/web/fundamentals/web-app-manifest/)
 
 
 ### Cart App API
