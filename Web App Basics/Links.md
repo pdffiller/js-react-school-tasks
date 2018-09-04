@@ -33,6 +33,7 @@ npm i -D webpack webpack-cli
 ### Etc.
 - [code smell](https://en.wikipedia.org/wiki/Code_smell)
 - [web app manifest](https://developers.google.com/web/fundamentals/web-app-manifest/)
+- [lessons & screencasts](https://drive.google.com/drive/u/1/folders/1e2YviXy0DFXTCTD-uD4Vwv0XtKsE7C9F)
 
 
 ### Cart App API
