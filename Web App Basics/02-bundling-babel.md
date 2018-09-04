@@ -8,4 +8,4 @@
 5. Подключить [mini-css-extract-plugin](https://github.com/webpack-contrib/mini-css-extract-plugin) и [css-loader](https://github.com/webpack-contrib/css-loader) 
 6. Импортировать стили в src/index.js. В итоге, для index.html должен создаваться и подключаться файл стилей
 
-Также, я добавил [все ссылки](https://github.com/pdffiller/js-react-school-tasks/blob/master/Web%20App%20Basics/Links.md) на инструменты, которые мы проходили на наших занятиях
+Также, я добавил [все ссылки](https://github.com/pdffiller/js-react-school-tasks/blob/master/Web%20App%20Basics/Links.md) на инструменты, которые мы проходили на наших занятиях. [Скринкаст](https://drive.google.com/drive/u/1/folders/1e2YviXy0DFXTCTD-uD4Vwv0XtKsE7C9F) там же
