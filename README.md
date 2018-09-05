@@ -47,3 +47,10 @@
    5. [Приложение “Платежная ведомость”](JS%20Basics/05-parse-csv-file.md)
    6. [Приложение "Симулятор школы"](JS%20Basics/07-oop-school.md)
    7. [Приложение "Профиль GitHub-пользователя"](JS%20Basics/07-github-user-profile.md)
+
+
+## 4. React / Redux
+
+### Занятие 1. Знакомство с React
+  1. [Профиль GitHub-пользователя (статический рендер)](React-Redux/01-1-static-render.md)
+  1. [Список GitHub-пользователей (статический рендер)](React-Redux/01-2-static-render-list.md)
