@@ -56,3 +56,4 @@
   1. [Список GitHub-пользователей (статический рендер)](React-Redux/01-2-static-render-list.md)
   1. [Профиль GitHub-пользователя (загрузка, редактирование, сохранение)](React-Redux/02-fetch-edit-save.md)
   1. [Менеджер Профиля GitHub-пользователя](React-Redux/03-gh-user-manager.md)
+  1. [`Redux`-приложение "Форма Пользователя"](React-Redux/05-redux-basics.md)
