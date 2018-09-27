@@ -16,7 +16,7 @@
 
 Мокап-приложения:
 
-<img src="../assets/06-redux-todolist.png" style="width: 600px">
+<img src="../assets/06-redux-todolist.png" style="width: 350px">
 
 ## Дополнительное задание (+3 балла)
 
