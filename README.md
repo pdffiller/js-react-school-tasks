@@ -58,3 +58,5 @@
   1. [Менеджер Профиля GitHub-пользователя](React-Redux/03-gh-user-manager.md)
   1. [`Redux`-приложение "Форма Пользователя"](React-Redux/05-redux-basics.md)
   1. [`React`/`Redux`-приложение "Список дел"](React-Redux/06-redux-selectors.md)
+  1. [`React`/`Redux`-Приложение "Профиль GitHub-пользователя"
+](React-Redux/07-redux-thunks.md)
